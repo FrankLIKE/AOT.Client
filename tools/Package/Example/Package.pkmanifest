@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+ <configuration>
+ 	<supportRuntime>
+	    <add key="Mode" value="ECMAScript"/>
+		<add key="Mode.Child" value="TypeScript"/>
+ 		<add key="ABI" value="libcxxabi"/>
+ 		<add key="Dynamic" value="false"/>
+ 		<add key="Libc" value="glibc"/>
+ 		<add key="kernel" value="3.16"/>
+ 	</supportRuntime>
+ 	<appSetting>
+ 		<add key="Application" value="Example.app"/>
+ 		<add key="Revision" value="1.0.0.1"/>
+ 	</appSetting>
+</configuration>
+
+
