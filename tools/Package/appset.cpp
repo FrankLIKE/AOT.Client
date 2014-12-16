@@ -1,4 +1,7 @@
 #include <iostream>
 #include <string>
 
-int main() { return 0; }
+int main(int arcg, char **argv) {
+  /// parser cmdline
+  return 0;
+}
