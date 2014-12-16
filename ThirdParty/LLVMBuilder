@@ -1,2 +1,3 @@
 #!/bin/sh
 #POSIX Auto Compiled LLVM
+echo "Start Builder LLVM."

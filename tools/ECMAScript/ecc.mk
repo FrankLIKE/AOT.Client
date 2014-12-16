@@ -1,0 +1,2 @@
+#ECMAScript Low
+target=ecc
